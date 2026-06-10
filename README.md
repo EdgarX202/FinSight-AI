@@ -1,4 +1,4 @@
-# Banking-Data-Analytics-Dashboard
+## Banking-Data-Analytics-Dashboard
 
 <strong>PHASE 1: Analytics Dashboard (Core)</strong>
 1. Spending Overview
