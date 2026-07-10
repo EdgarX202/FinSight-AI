@@ -1,5 +1,24 @@
 # AI Bank Statement Intelligence Platform
 
+Transform PDF bank statements into actionable financial insights, risk indicators, and AI-generated reports in seconds.
+
+## Features
+
+- Upload PDF bank statements
+- Automatic transaction extraction
+- AI-generated financial summaries
+- Spending categorisation
+- Cashflow analytics
+- Risk & anomaly detection
+- Loan affordability analysis
+- Executive reports for financial professionals
+
+## Why FinSight AI?
+
+Financial professionals spend significant time manually reviewing bank statements to assess customer affordability, identify financial risks, and detect unusual transactions.
+
+FinSight AI automates this process using AI-powered document analysis, reducing manual effort while providing consistent, explainable financial insights.
+
 ## PHASE 1: Statement Processing & Analytics (Core)
 
 1. PDF Bank Statement Upload
