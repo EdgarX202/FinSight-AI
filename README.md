@@ -1,27 +1,118 @@
-## Banking-Data-Analytics-Dashboard
+# AI Bank Statement Intelligence Platform
 
-<strong>PHASE 1: Analytics Dashboard (Core)</strong>
-1. Spending Overview
-2. Time-Based Analysis
-3. Transaction Explorer (filter/search)
-4. Spending Categorization View
-5. Top category spending
-6. Monthly spend summary
-7. Income vs expense summary
-  
-<strong>PHASE 2: Insight Engine (Extra)</strong>
-1. Automated Spending Insights (rule-based KPI analysis)
-2. Natural Language Summaries (rule-based text generation)
-3. Alerts (overspending, unusual transactions, low balance risk)
-   
-<strong>PHASE 3: Risk & Prediction Layer (Extra)</strong>
-1. Rule-based anomaly detection
-2. Statistical fraud detection (z-score)
-3. Cashflow forecasting (moving averages)
-4. Customer segmentation (k-means clustering)
+## PHASE 1: Statement Processing & Analytics (Core)
 
-<strong>Tech Stack:</strong>
-- Backend: Python (Flask)
-- Frontend: React + Chart.js
-- Database: PostgreSQL
-- Data Processing: Pandas
+1. PDF Bank Statement Upload
+2. Automatic Transaction Extraction
+3. Transaction Search & Filtering
+4. Spending Categorisation
+5. Monthly Income vs Expenses Analysis
+6. Spending Trends & Cashflow Visualisation
+7. Financial Health Dashboard
+
+---
+
+## PHASE 2: Intelligent Insights Engine (Core)
+
+1. AI Financial Summary Generation
+2. Recurring Income Detection
+3. Subscription Detection
+4. Cashflow Stability Analysis
+5. Spending Pattern Analysis
+6. Savings Rate Calculation
+7. Personalised Financial Recommendations
+
+---
+
+## PHASE 3: Risk & Compliance Intelligence (Advanced)
+
+1. Unusual Transaction Detection
+2. Large Cash Withdrawal Detection
+3. Gambling Transaction Detection
+4. Duplicate Transaction Detection
+5. Missing or Incomplete Statement Validation
+6. Financial Risk Indicators
+7. AI Risk Assessment Report
+
+---
+
+## PHASE 4: Lending & Decision Support (Advanced)
+
+1. Customer Financial Health Score
+2. Affordability Assessment
+3. Income Consistency Analysis
+4. Debt-to-Income Estimation
+5. Monthly Disposable Income Calculation
+6. Mortgage/Loan Readiness Report
+7. AI Executive Summary for Loan Officers
+
+---
+
+## Future Enhancements
+
+- Multi-bank statement support
+- OCR for scanned PDF statements
+- AI-powered transaction categorisation
+- Open Banking API integration
+- Export reports to PDF
+- CSV & Excel import/export
+- Multi-user authentication
+- Real-time analytics dashboard
+- Machine Learning anomaly detection
+- Predictive cashflow forecasting
+- Personal finance chatbot
+- Customer financial timeline
+- Portfolio & investment insights
+
+---
+
+# Tech Stack
+
+### Backend
+
+- Python
+- Flask
+- SQLAlchemy
+- Pandas
+
+### Frontend
+
+- React
+- TypeScript
+- Chart.js
+- Tailwind CSS
+
+### Database
+
+- PostgreSQL
+
+### AI & Machine Learning
+
+- OpenAI API
+- LangChain
+- Sentence Transformers
+- Scikit-learn
+
+### Document Processing
+
+- pdfplumber
+- PyMuPDF (fitz)
+- Camelot (table extraction)
+- Tesseract OCR (for scanned statements)
+
+### Authentication
+
+- JWT Authentication
+- bcrypt Password Hashing
+
+### Deployment
+
+- Docker
+- GitHub Actions
+- Render / Railway / Azure
+
+---
+
+# Primary Objective
+
+Build an AI-powered platform capable of analysing bank statement PDFs and automatically generating financial insights, risk indicators, affordability assessments, and executive summaries that assist customers, financial advisers, and banking professionals in making faster, more informed financial decisions.
